@@ -12,4 +12,6 @@ The code in this repository is based on the following.
 npm create vite@latest # select react and typescript
 cd zustand-ex1
 npm i
+npm install zustand
+npm install immer
 ```
